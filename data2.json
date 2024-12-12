@@ -1,23 +1,10 @@
-[
-    {
-      "id": 6,
-      "title": "Flowey",
-      "content": "only 5 inches",
-      "price": 120000,
-      "img": "https://jellyzoo.github.io/ex_img/cont3_cake6.png"
-    },
-    {
-      "id": 7,
-      "title": "Baby shoes",
-      "content": "for less than 6",
-      "price": 120000,
-      "img": "https://jellyzoo.github.io/ex_img/cont3_cake7.png"
-    },
-    {
-      "id": 8,
-      "title": "Red Herring",
-      "content": "Born in France",
-      "price": 120000,
-      "img": "https://jellyzoo.github.io/ex_img/cont3_cake8.png"
-    }
-  ]
+{
+  "name": "hyun",
+  "userImage": "https://news.koreadaily.com/data/photo/2024/03/06/202403061816773901_65e83575b514f.jpg",
+  "postImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R-jk9gi5ozT4pjVCAaT5Td0fFjxurnErqufZAEfx4Tq3aeTkG5tpterjrxglAXNVVBU&usqp=CAU",
+  "likes": 10,
+  "date": "May 05",
+  "liked": false,
+  "content": "더보기 버튼으로 요청한 게시물2",
+  "filter": "perpetua"
+}
